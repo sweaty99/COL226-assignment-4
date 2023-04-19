@@ -1,0 +1,2 @@
+testcase_3 :
+**This is bold** *This is italics* _This is underlined_ ** *This is bold and italics* ** ** _This is bold and underlined_ ** * _This is italics and underlined_ * ** * _This is bold, italics and underlined_* **
